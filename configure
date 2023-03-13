@@ -1,0 +1,6 @@
+#define the compile 
+CC = gcc
+# define the compile flags
+CFLAGS = -Wall -g
+# define the link flags
+LFLAGS = -Wall -g
