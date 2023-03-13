@@ -4,3 +4,6 @@ CC = gcc
 CFLAGS = -Wall -g
 # define the link flags
 LFLAGS = -Wall -g
+# perform tuning
+TUNE = -O3
+
